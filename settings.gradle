@@ -1,0 +1,3 @@
+include ':BlurDetectionlibrary'
+include ':app'
+rootProject.name = "eBestOpencvLibrary"
